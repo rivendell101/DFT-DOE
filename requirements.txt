@@ -3,5 +3,5 @@ pandas
 numpy
 statsmodels
 matplotlib
-pydoe
+pyDOE2
 seaborn
