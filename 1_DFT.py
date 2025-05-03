@@ -5,7 +5,7 @@ import statsmodels.api as sm
 from statsmodels.formula.api import ols
 import matplotlib.pyplot as plt
 from itertools import product, combinations
-from pyDOE2 import fracfact
+from pyDOE import fracfact
 import seaborn as sns
 
 # Custom CSS for styling
